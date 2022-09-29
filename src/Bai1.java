@@ -1,6 +1,6 @@
 import rikkei.academy.Student;
 
-public class Main {
+public class Bai1 {
     public static void main(String[] args) {
         Student s1 = new Student(111,"khánh");
         Student s2 = new Student(222,"khánh");
